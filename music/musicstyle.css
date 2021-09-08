@@ -1,0 +1,24 @@
+body{
+background:rgb(30,30,30);
+}
+h1{
+color:white;
+font-size:48px;
+text-align:center;
+text-decoration:underline;
+}
+
+a{
+font-size:42px;
+color:yellow;
+display:block;
+font-weight:bold;
+}
+
+img{
+height:220px;
+width:200px;
+border:7px solid orange;
+border-radius:102px 32px;
+margin:10px;
+}
